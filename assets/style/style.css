@@ -1,0 +1,10 @@
+/* BASIC STYLES HERE */
+.hero {
+  height: 100vh;
+}
+
+.my-image {
+  border-radius: 50%;
+  height: 60vh;
+  width: 50vh;
+}
