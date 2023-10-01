@@ -6,7 +6,7 @@
 .my-image {
   border-radius: 50%;
   height: 60vh;
-  width: 50vh;
+  width: 40vh;
 }
 
 .codeworks {
@@ -20,4 +20,13 @@
 
 .caro {
   height: 30vh;
+}
+
+.hero-font {
+  font-size: large;
+}
+
+.hero-image {
+  height: 10vh;
+  width: 10vh;
 }
