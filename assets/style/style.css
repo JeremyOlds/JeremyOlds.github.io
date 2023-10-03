@@ -1,7 +1,11 @@
 /* BASIC STYLES HERE */
 
 
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&family=Merriweather:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&family=Nanum+Myeongjo&display=swap');
+
 
 .hero {
   height: 100vh;
@@ -10,7 +14,7 @@
 .my-image {
   border-radius: 50%;
   height: 60vh;
-  width: 40vh;
+  width: 50vh;
 }
 
 .codeworks {
@@ -31,7 +35,59 @@
   font-family: 'Merriweather', serif;
 }
 
+.hero-title {
+  font-family: 'Merriweather', serif;
+}
+
 .hero-image {
   height: 10vh;
   width: 10vh;
+}
+
+.carousel-inner>.item {
+  /* width: 100%; */
+  height: 100%;
+}
+
+.devs-font {
+  font-size: 1.5em;
+  font-family: 'MedievalSharp', cursive;
+}
+
+.devs-title {
+  font-family: 'MedievalSharp', cursive;
+}
+
+.project-github {
+  height: 5vh;
+  width: 5vh;
+  background-color: white;
+  border-radius: 50%;
+}
+
+.project-lang {
+  height: 5vh;
+  width: 5vh;
+}
+
+.tower-font {
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 1.5em;
+}
+
+.tower-title {
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+.row-padding {
+  padding-right: 5em;
+  padding-left: 5em;
+}
+
+.devs-height {
+  height: 95em;
+}
+
+.carousel-image {
+  height: 100%;
 }
