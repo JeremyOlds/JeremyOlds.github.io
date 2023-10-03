@@ -88,6 +88,10 @@
   height: 95em;
 }
 
+.tower-height {
+  height: 80em;
+}
+
 .carousel-image {
   height: 100%;
 }
